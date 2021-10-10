@@ -4,3 +4,5 @@
 - pan
 - arroz
 - sushi
+- setas
+- calabacin
