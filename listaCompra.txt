@@ -4,3 +4,5 @@
 - pan
 - arroz
 - sushi
+- nuggets de pollo
+- aros de cebolla
