@@ -1,6 +1,2 @@
-- lechuga
-- cebolla
-- pimientos
-- pan
-- arroz
-- sushi
+- Maxibom
+- Cornetto
