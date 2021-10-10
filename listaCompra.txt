@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - lechuga
 - cebolla
 - pimientos
@@ -11,3 +12,7 @@
 - pizza
 - hamburguesa
 
+=======
+- Maxibom
+- Cornetto
+>>>>>>> helados
