@@ -1,0 +1,6 @@
+- lechuga
+- cebolla
+- pimientos
+- pan
+- arroz
+- sushi
